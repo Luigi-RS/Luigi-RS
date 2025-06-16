@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luigi Segala</h1>
-<h3 align="center">A mechanical engineer from Brazil turning into a dev.</h3>
+<h3 align="center">Engineering background, coding future — from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi-rs&label=Profile%20views&color=0e75b6&style=flat" alt="luigi-rs" /> </p>
 
